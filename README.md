@@ -1,9 +1,8 @@
 # planeaciones-didacticas-plibm
 Sistema de Planeaciones Didácticas alineado con la Nueva Escuela Mexicana
-# planeaciones-didacticas-plibm
-# planeaciones-didacticas-plibm
-Sistema de Planeaciones Didácticas alineado con la Nueva Escuela Mexicana
-# planeaciones-didacticas-plibm
+- **Nombre**: Arlen Dinora Jimenez Elizondo / Reyna Velazquez
+- **GitHub**: https://github.com/arlenj89-sketch
+- **Email**: ad.jimenez@ibm.com
 # Sistema de Planeaciones Didácticas PLIBM
 
 Aplicación web para automatizar la creación de planeaciones didácticas mensuales alineadas con la Nueva Escuela Mexicana.
